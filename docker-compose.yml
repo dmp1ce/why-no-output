@@ -1,0 +1,4 @@
+test:
+  build: ./
+  tty: true
+  command: bash -c "echo 'Production build. Do nothing'"
